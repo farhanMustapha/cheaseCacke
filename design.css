@@ -1,0 +1,100 @@
+.title{
+
+width: 60%;
+margin: 0 auto;
+margin-bottom: 30px !important;
+}
+
+img{
+    width: 60%;
+    
+}
+.contenu{
+    display: flex;
+    justify-content: center;    
+}
+
+.parag1{
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    
+}
+
+
+h3{
+    font-style: italic;
+}
+.ingridients{
+    display: flex;
+    justify-content: space-evenly;/* margin-left et margin-right*/
+    width: 60%;
+    margin: 0 auto; /*pour centrer*/
+}
+.ing-left{
+    margin-right: 10px;
+    
+    
+    
+}
+.ing-right{
+    margin-left: 30px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 350px;
+    border-radius: 5%;
+    width: 100%;
+    
+}
+.instr{
+    width: 60%;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.fa-clock{
+    color: aqua;
+    margin: 10px;
+    font-size: 40px;
+}
+.numero{
+    background-color:black;
+    text-align: center;
+    width: 60px;
+    height: 10px;
+    color: aliceblue;
+    padding: 10px;
+    
+    margin-bottom: -20px;
+    margin-right: 5px;
+    border-radius: 10%;
+}
+.instruc-step1{
+    display: flex;
+    
+    margin-right: 20px;
+
+}
+
+.parag-instr{
+    margin-top: 0px;
+    
+}
+.bigo{
+    font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
